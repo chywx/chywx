@@ -1,2 +1,3 @@
 ### Hi, I'm Dylan. 👋
-[个人笔记](https://chywx.github.io/)
+[博客园](https://www.cnblogs.com/chywx/)
+[github笔记](https://chywx.github.io/)
